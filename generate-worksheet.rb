@@ -5,8 +5,8 @@ lines_between_rows=3
 spaces_per_column=[maximum_top, maximum_bottom].max.to_s.length+spaces_between_columns 
 
 max_terms_to_add=2
-addition=true
-subtraction=false
+addition=false
+subtraction=true
 greater_on_top=true
 
 maximum_lines_per_page=75
